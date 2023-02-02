@@ -3,7 +3,7 @@
     "name": "Kaltura Video Downloader",
     "version": "1.0",
     "background": {
-        "scripts": ["background.js"]
+        "scripts": ["script.js"]
     },
     "permissions": [
         "activeTab"
